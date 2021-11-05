@@ -1,14 +1,18 @@
 ---
 title: Kanban_Swim_Lanes
-tags: agil klassisch
+tags: agil 
 author: Creed229
-anrechnung: k oder a
+anrechnung:  a
 ---
 
-Kurzbeschreibung zu Kanban_Swim_Lanes um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+## Definition
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+> "Kanban swimlanes are horizontal lines that split a Kanban board into sections. Teams usually use them to visually separate different work types on the same board and organize homogenous tasks together."[^1]
+
+Kanban Swimlanes sind also Abgrenzungen in Form von horizontalen oder vertikalen Zeilen für verschiedene Bereiche des Projekts. Sie sind Teil der sogenannten [Kanban Methode](https://de.wikipedia.org/wiki/Kanban). Diese wiederum ist eine Form des agilen Projektmanagements.[^2]  
+
+Meist werden Swimlanes verwendet um verschiedene Arbeits- oder Produktbereiche voneinader zu trennen. Diese Gruppierung beziehungsweise Abgrenzung findet meist nach einem bestimmten Kriterium statt.
+Generell ist es den Anwendern selbst überlasssen, nach welchen Kategorien sie differenzieren
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -97,8 +101,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [What Are Kanban Swimlanes and How to Use Them in Practice?](https://kanbanize.com/kanban-resources/kanban-software/kanban-swimlanes)
+
+[^2]:   
+
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
