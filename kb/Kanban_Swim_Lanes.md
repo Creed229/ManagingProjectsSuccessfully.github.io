@@ -25,7 +25,7 @@ Eines der am häufigsten genutzen Optionen ist es, die Aufgaben nach ihrer Prior
 
 Vor allem wenn eng mit Geschäftspartnern und Kunden gearbeitet wird, ist dies eine Möglichkeit um einen zeitlichen Verzug des Projekts zu verhindern. Beispielweise könnte das Board in hochprioritäre, mittelprioritäre und niedrigprioritäre Aufgaben unterteilt werden. Dadurch lassen sich dringende Angelegenheiten effizient und schnell lösen.[^3]
 
-## **Art der Augabe**
+### **Art der Augabe**
 Eine weitere beliebte Möglichkeit sein Kanban Board zu unterteilen ist es, die Swimlanes nach dem jeweiligen Aufgabenbereich zu sortieren. Da es in jedem Team  unterschiedliche Segmente eines Projekts gibt, macht es Sinn diese mehrfach zu klassifizieren. Zum Beispiel kann zwischen extern und intern differenziert werden und anschließend weiter untergliedert werden. Um die Übersicht zu wahren, sollte hierbei allerdings nicht mehr als in 10 Swimlanes unterteilt werden.[^3]
 
 
