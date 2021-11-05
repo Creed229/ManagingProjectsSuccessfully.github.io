@@ -9,10 +9,25 @@ anrechnung:  a
 
 > "Kanban swimlanes are horizontal lines that split a Kanban board into sections. Teams usually use them to visually separate different work types on the same board and organize homogenous tasks together."[^1]
 
-Kanban Swimlanes sind also Abgrenzungen in Form von horizontalen oder vertikalen Zeilen für verschiedene Bereiche des Projekts. Sie sind Teil der sogenannten [Kanban Methode](https://de.wikipedia.org/wiki/Kanban). Diese wiederum ist eine Form des agilen Projektmanagements.[^2]  
+Kanban Swimlanes sind also Abgrenzungen in Form von horizontalen oder vertikalen Zeilen für verschiedene Bereiche eines Projekts. Sie sind Teil der sogenannten [Kanban Methode](https://de.wikipedia.org/wiki/Kanban). Diese wiederum ist eine Form des agilen Projektmanagements.[^2]  
 
-Meist werden Swimlanes verwendet um verschiedene Arbeits- oder Produktbereiche voneinader zu trennen. Diese Gruppierung beziehungsweise Abgrenzung findet meist nach einem bestimmten Kriterium statt.
-Generell ist es den Anwendern selbst überlasssen, nach welchen Kategorien sie differenzieren
+## Arten von Swimlanes 
+
+Meist werden Swimlanes verwendet um verschiedene Prozesse voneinader zu trennen. Diese Gruppierung beziehungsweise Abgrenzung findet  nach einem bestimmten Kriterium statt.
+Generell ist es den Anwendern selbst überlasssen, nach welchen Kategorien sie dabei differenzieren. Das Ziel dieser Unterteilung ist es eine übersichtliche Darstellung der aktuellen Aufgaben zu ermöglichen.[^3]
+#
+## Beispiele für verschiedene Kategorien
+
+
+
+### **Dringlichkeit**
+Eines der am häufigsten genutzen Optionen ist es, die Aufgaben nach ihrer Priorität beziehungsweise Dringlichkeit zu unterteilen. Der Vorteil besteht darin, dass Teams so einfacher Fristen und Termine einhalten können. 
+
+Vor allem wenn eng mit Geschäftspartnern und Kunden gearbeitet wird, ist dies eine Möglichkeit um einen zeitlichen Verzug des Projekts zu verhindern. Beispielweise könnte das Board in hochprioritäre, mittelprioritäre und niedrigprioritäre Aufgaben unterteilt werden. Dadurch lassen sich dringende Angelegenheiten effizient und schnell lösen.[^3]
+
+## **Art der Augabe**
+Eine weitere beliebte Möglichkeit sein Kanban Board zu unterteilen ist es, die Swimlanes nach dem jeweiligen Aufgabenbereich zu sortieren. Da es in jedem Team  unterschiedliche Segmente eines Projekts gibt, macht es Sinn diese mehrfach zu klassifizieren. Zum Beispiel kann zwischen extern und intern differenziert werden und anschließend weiter untergliedert werden. Um die Übersicht zu wahren, sollte hierbei allerdings nicht mehr als in 10 Swimlanes unterteilt werden.[^3]
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -103,9 +118,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [What Are Kanban Swimlanes and How to Use Them in Practice?](https://kanbanize.com/kanban-resources/kanban-software/kanban-swimlanes)
 
-[^2]:   
+[^2]: [Kanban Wikipedia](https://de.wikipedia.org/wiki/Kanban)
 
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [Kanban-Swimlanes - Optimieren Sie Ihren Prozess](https://teamhood.com/de/kanban-ressourcen/kanban-swimlanes-fuer-sie/)
 
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
